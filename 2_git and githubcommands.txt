@@ -1,0 +1,29 @@
+Git >> Version control
+
+   v1
+   v2
+   v3
+   newv4
+
+
+   >> it is distributed ( on cloud)
+   >> collaboration
+   >> Tracking changes
+   >> Recovery
+
+   github
+   bitbucket
+   gitlabs
+   gitpod
+
+   >> For 1st time need to configure github in our system 
+   git config --global user.name "sanjana30kavuri-lab"
+   git config --global user.email "sanjana30kavuri@gmail.com"
+
+    git config --global user.ui auto
+
+    Mandatory commands
+    >> git init
+    >> git remote add origin https://github.com/sanjana30kavuri-lab/GitDemo.git
+
+     git pull origin main 
